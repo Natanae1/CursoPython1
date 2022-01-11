@@ -1,9 +1,9 @@
 # Faça um programa que leia o preço de um produto e mostre seu preço com 5% de desconto
 
-produto = int(input('Qual valor do produto?'))
-desconto = 4.0 / 100.0 #5%
-produtod = produto - (desconto * produto) # produto com descunto recebe o produto menos o valor do desconto vezes produto inicial
+produto = float(input('Qual valor do produto? R$'))
+#desconto = 5.0 / 100.0 #5%
+produtod = produto - (produto * 5 / 100) # produto com desconto recebe o produto menos o valor do desconto vezes produto inicial
 
 
-print('Com o desconto de 5%, você pagará somente R$' ,produtod)
+print('Com o desconto de 5%, você pagará somente R$ {:.02f}' .format(produtod))
 
