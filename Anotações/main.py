@@ -26,4 +26,16 @@ a.istitle # verufuca se está capitalizada
 
 ## raiz quadrada = 81**(1/2) (valor elevado a meio)
 
+#biblioteca import math
+#ceil arredonda pra cima
+#floor arredonda pra baixo
+#trunc
+#pow calcula potencia
+#sqrt calcula raiz quadrada
+#factorial calcula fatorial
+
+from math import ceil  #importa só uma
+
+
+
 

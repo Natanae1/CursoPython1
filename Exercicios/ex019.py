@@ -1,0 +1,1 @@
+#Um professor que sortear um dos quatro alunos para apagar o quadro. Faça um programa que ajude lendo o nome deles e o escolhido
