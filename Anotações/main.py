@@ -25,16 +25,17 @@ a.istitle # verufuca se está capitalizada
 # % = Resti da divisão
 
 ## raiz quadrada = 81**(1/2) (valor elevado a meio)
-
+#math.
 #biblioteca import math
 #ceil arredonda pra cima
 #floor arredonda pra baixo
-#trunc
+#trunc elimina todos números após a virgula
 #pow calcula potencia
 #sqrt calcula raiz quadrada
 #factorial calcula fatorial
 
 from math import ceil  #importa só uma
+import math #importa tudo
 
 
 
