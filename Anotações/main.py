@@ -36,6 +36,8 @@ a.istitle # verufuca se está capitalizada
 
 from math import ceil  #importa só uma
 import math #importa tudo
+import random
+#O método random.choice() retorna um elemento selecionado aleatoriamente da sequência especificada.
 
 
 

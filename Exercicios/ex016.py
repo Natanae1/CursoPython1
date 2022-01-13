@@ -2,5 +2,5 @@
 
 import math
 n = float (input ('Digite um numero: '))
-i = math.trunc(n) #variavel i de inteiro, recebe math.trunc(variavel)
-print('O numero {} convertido para inteiro é {}' .format(n, i))
+#i = math.trunc(n) #variavel i de inteiro, recebe math.trunc(variavel)
+print('O numero {} convertido para inteiro é {}' .format(n, math.trunc(n)))
