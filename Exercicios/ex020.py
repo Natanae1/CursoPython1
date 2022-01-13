@@ -7,5 +7,5 @@ a3 = input(str('Insira o nome do terceiro aluno:'))
 a4 = input(str('Insira o nome do quarto aluno:'))
 
 lista = [a1, a2, a3, a4]
-random.shuffle(lista)
+random.shuffle(lista) #embaralha valores da lista
 print('A ordem de apresentação será: ' ,lista)

@@ -40,5 +40,9 @@ import random
 #O método random.choice() retorna um elemento selecionado aleatoriamente da sequência especificada.
 
 
+CADEIA DE CARCTERES
+
+
+
 
 
