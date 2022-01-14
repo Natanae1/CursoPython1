@@ -1,0 +1,1 @@
+#Programa que lê nome completo e mostre o primeiro e ultimo separadamente

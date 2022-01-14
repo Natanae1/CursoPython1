@@ -1,0 +1,1 @@
+#Faça um programa que leia um nome de cidade e diga se começa com "Santo"
