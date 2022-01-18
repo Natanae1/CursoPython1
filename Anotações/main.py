@@ -46,6 +46,7 @@ len(frase) #vai imprimir o numero do campo '13'
 frase.count('o') # vai contar quantas vezes aparece determinada letra, no caso o "o"
 frase.find('ael') #em que momento encontrou isso e mostra a posição "5 por exemplo"
 frase.find('Android') #retorna o valor -1 se não achar nada relacionado na string
+frase.rfind('A') #procura do lado direito, orientado a utilizar para achar a ultima
 'Vaz' in frase #existe "Vaz" na frase? True or False
 frase.replace('Gomes', 'Vaz') # ele substitui. Onde tem Gomes, vai substituir por Vaz
 frase.upper() #deixa tudo em maiusculo
