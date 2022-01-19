@@ -3,6 +3,7 @@
 #Todas letras minusculas
 #Quantas letras sem espaço
 #Quantas letras tem o primeiro nome
+#teste
 
 nome = str(input('Insira seu nome completo:')).strip()
 print(nome.upper())
