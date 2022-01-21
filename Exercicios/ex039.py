@@ -1,0 +1,2 @@
+#Faça um programa que leia o ano de nascimento e informe: Se ela ainda vai se alistar, se é hora de alistar ou se já passou do tempo de alistamento
+#Seu programa deve mostrar o tempo que falta ou o tempo que passou do prazo

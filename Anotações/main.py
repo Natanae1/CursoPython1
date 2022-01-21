@@ -59,6 +59,13 @@ frase.lstrip() #remove os espaços da esquerda
 frase.split() #divide a string, ele gera uma lista com os caracteres inseridos Ex.: [Natanael][Vaz][Gomes]
 '-'.join(frase) #junta todos elementos separando pelo caractere no inicio "-", se quiser espaço ''.join(frase)
 
+#Condições Aninhadas
+if #se
+elif #se não se (else if) pode ter vários
+else #senão
+
+
+
 
 
 

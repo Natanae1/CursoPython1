@@ -1,0 +1,1 @@
+#Crie um programa que leia duas notas do aluno: Média abaixo de 5.0, reprovado. Média entre 5.0 e 6.9, recuperação. Média 7 ou superior, aprovado
