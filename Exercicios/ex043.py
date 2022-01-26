@@ -5,4 +5,8 @@
 #30 até 40 - Obesidade
 #Acima de 40 - Obesidade mórbida
 
-float
+peso = int(input('Insira seu peso: '))
+a = int(input('Insira sua altura: '))
+imc = peso / (a * a)
+print(imc)
+

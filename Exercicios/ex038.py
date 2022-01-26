@@ -4,10 +4,16 @@ n1 = int(input('Insira o primeiro valor: '))
 n2 = int(input('Insira o segundo valor: '))
 if n2 > n1:
     maior = n2
+    print('O primeiro valor {} é maior' .format(maior))
 
-else:
+if n1 > n2:
     maior = n1
+    print(maior)
 
-print('O maior numero é o')
+if n1 == n2:
+    igual = n1
+    igual = n2
+    print(igual)
+#rint('O maior numero é o {}' .format(maior))
 
 

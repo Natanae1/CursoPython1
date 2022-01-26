@@ -4,9 +4,9 @@
 from datetime import date
 anonasc = int(input('Insira o ano do seu nascimento: '))
 anoatual = 2022
-if anonasc - anoatual <= 18:
+if anonasc - anoatual < 17:
     print('Em breve voce se alistará')
 
-elif anonasc - anoatual == 18:
+if anonasc - anoatual > 17 and anonasc - anoatual == 18:
     print('Hora de se alistar!')
 
