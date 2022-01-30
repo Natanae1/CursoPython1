@@ -16,7 +16,7 @@ if opcao == papel and pc == pedra:
     print('Você ganhou!!Você escolheu {} e eu escolhi {}.' .format(opcao, pc))
 
 if opcao == papel and pc == tesoura:
-    print('Eu ganhei hahahaha!')
+    print('Eu ganhei hahahah!')
 
 if opcao == pedra and pc == papel:
     print('Eu ganhei, tá facil!')
