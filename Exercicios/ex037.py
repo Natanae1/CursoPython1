@@ -15,4 +15,4 @@ elif opcao == 3:
     print('{} convertido para hexadecimal é igual a {}' .format(num, hex(num)[2:]))
 
 else:
-    print('OPÇÃO INVÁLIDA!! ESCOLHA ENTRE 1, 2 e 3.')
+    print('OPÇÃO INVÁLIDA!! ESCOLHA ENTRE 1, 2 e 3')
