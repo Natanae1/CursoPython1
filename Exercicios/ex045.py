@@ -28,5 +28,5 @@ if opcao == tesoura and pc == papel:
     print('Você me cortou =(')
 
 if opcao == tesoura and pc == pedra:
-    print('TOMAAA, ISSO QUE TU MERECE, PERDEU!!')
+    print('TOMAAA, ISSO QUE TU MERECE, PERDEU!')
 
