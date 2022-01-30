@@ -4,3 +4,9 @@
 #25 até 30  - Sobrepeso
 #30 até 40 - Obesidade
 #Acima de 40 - Obesidade mórbida
+
+peso = int(input('Insira seu peso: '))
+a = int(input('Insira sua altura: '))
+imc = peso / (a * a)
+print(imc)
+
