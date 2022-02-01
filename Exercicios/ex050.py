@@ -1,0 +1,1 @@
+#Faça um programa que leia 6 numeros inteiros e mostre a soma daqueles que for par, se for impar desconsidere

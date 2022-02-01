@@ -1,0 +1,1 @@
+#Faça um programa que leia o primeiro termo e a razão, no final mostre os 10 primeiros termos dessa progressão
