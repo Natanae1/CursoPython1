@@ -29,7 +29,7 @@ elif opcao == 4:
     total = valor + (valor * 20 / 100)
     totalparcela = int(input('Em quantas parcelas? '))
     parcela = total / totalparcela
-    print('Sua compra de {:.2f} será parcelada em {}x de R${:.2f} com juros.'.format(valor, totalparcela, parcela))
+    print('Sua compra de r${:.2f} será parcelada em {}x de R${:.2f} com juros.'.format(valor, totalparcela, parcela))
 
 else:
     total = valor
