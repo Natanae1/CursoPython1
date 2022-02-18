@@ -1,0 +1,1 @@
+#Crie um programa que leia varios numeros inteiros. O programa só vai parar quando digitar 999 e no final mostre a soma de todos

@@ -1,0 +1,1 @@
+#Escreva um programa que leia um numero inteiro e mostre elementos de uma sequencia de fibonacci

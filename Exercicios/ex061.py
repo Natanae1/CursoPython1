@@ -1,0 +1,1 @@
+#Refaça o desafio 51 usando o while

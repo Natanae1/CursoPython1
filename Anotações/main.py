@@ -64,7 +64,9 @@ if #se
 elif #se não se (else if) pode ter vários
 else #senão
 
-
+n = 1
+while n != 0:
+    n = int(input('Digite um valor: '))
 
 
 
