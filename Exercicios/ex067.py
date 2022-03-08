@@ -1,3 +1,4 @@
+#Programa que mostra a tabuada conforme valor digitado. Ao digitar valor negativo, o programa é encerrado.
 print('--=' * 5, end='')
 print(' TABUADA', '--=' * 5)
 c = 0
