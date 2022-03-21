@@ -69,6 +69,14 @@ while n != 0:
     n = int(input('Digite um valor: '))
 
 
+LISTA = ['ELEMENTOS', 'ELEMENTOS']
+lista.append('ELEMENTO2') #Adiciona um elemento ao fim da lista
+lista.insert(0,'ELEMENTO3') #NA POSIÇÃO TAL, ADICIONA TAL COISA
+del lista[2] #Apaga um elemento na posição 2
+lista.pop[2] #Apaga um elemento na posição 2 #Sem indice, ele remove o ultimo
+lista.remove['ELEMENTO2'] #Apaga o elemento pelo NOME
+valores = [0,4,3,1,5,2]
+valores.sort() #Ordena os valores
 
 
 
