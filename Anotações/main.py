@@ -77,6 +77,7 @@ lista.pop[2] #Apaga um elemento na posição 2 #Sem indice, ele remove o ultimo
 lista.remove['ELEMENTO2'] #Apaga o elemento pelo NOME
 valores = [0,4,3,1,5,2]
 valores.sort() #Ordena os valores
+enumerate(lista) #numera as posições da lista
 
 
 
