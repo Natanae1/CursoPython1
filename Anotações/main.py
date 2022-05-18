@@ -78,7 +78,11 @@ lista.remove['ELEMENTO2'] #Apaga o elemento pelo NOME
 valores = [0,4,3,1,5,2]
 valores.sort() #Ordena os valores
 enumerate(lista) #numera as posições da lista
- 
+
+#Dicionarios
+values() - é o conteudo da lista
+keys() - pega todas chaves (como se fosse as posições)
+items() - pega todos dados da lista
 
 
 
