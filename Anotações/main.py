@@ -85,6 +85,13 @@ keys() - pega todas chaves (como se fosse as posições)
 items() - pega todos dados da lista
 
 
+#Função
+def nomedafunção():
+    #oque vc quer fazer
+
+
+
+
 
 
 
